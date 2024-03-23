@@ -82,8 +82,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![IMG-20240323-WA0019](https://github.com/sreehari2315/study-of-basic-gates/assets/139331590/417dad5f-7d5f-46e4-99ac-c0dfc4c0ba98)
 ![IMG-20240323-WA0016](https://github.com/sreehari2315/study-of-basic-gates/assets/139331590/96d27b84-a1aa-4817-a9f3-22ffd0a6aad4)
 
-**RTL**
-
 **Result:**
-
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
