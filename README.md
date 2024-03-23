@@ -68,6 +68,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![IMG-20240323-WA0015](https://github.com/sreehari2315/study-of-basic-gates/assets/139331590/024c77d8-aea6-426b-a888-a1764d17cb77)
 
  Developed by: SREE HARI K
+ 
  RegisterNumber: 212223230212
 
 
